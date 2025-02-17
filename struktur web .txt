@@ -1,0 +1,10 @@
+basecamp-hosting/
+├── assets/
+│   ├── css/
+│   ├── js/
+│   └── images/
+├── config/
+├── includes/
+├── templates/
+├── admin/
+└── index.php
